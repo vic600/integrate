@@ -3,7 +3,7 @@ const app = express();
 const bodyParser = require('body-parser');
 const router = express.Router()
 const path = require('path');
-const port = 9100;
+const port = 3000;
 const cors = require('cors');
 const info = require('./info/info')(router)
 
