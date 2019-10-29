@@ -1,0 +1,28 @@
+{
+  "name": "ejenziendpoints",
+  "version": "1.0.0",
+  "description": "ejenziApi",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BCs%1B%5BC%1B%5BC%1B%5BC%1B%5BDwww.github.com/vic600.git"
+  },
+  "keywords": [
+    "EjenziApi"
+  ],
+  "author": "vic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BCs%1B%5BC%1B%5BC%1B%5BC%1B%5BDwww.github.com/vic600/issues"
+  },
+  "homepage": "https://github.com/%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BCs%1B%5BC%1B%5BC%1B%5BC%1B%5BDwww.github.com/vic600#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "request": "^2.88.0"
+  }
+}
